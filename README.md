@@ -44,6 +44,3 @@ pip install customtkinter pyperclip Pillow
 ├── image.png               # Graphical asset for the user interface
 └── README.md               # Project documentation
 ```
-
-## 📜 Acknowledgments
-* Developed for the **DevStack Technologies** Python Application Development Internship (Project 4).
